@@ -13,7 +13,7 @@ title: Jonna Singh Alvarado
 
 ## About Me
 
-I am currently a K99 fellow in the [Andermann Lab](https://www.andermannlab.com/), where I have been working on approaches to link functional and transcriptomic measurements in neurons...
+I am currently a K99 fellow in the [Andermann Lab](https://www.andermannlab.com/), where I have been working on approaches to link functional and transcriptomic measurements in neurons. My goal is to use these approaches to understand how brainstem regions begin to transform bodily signals into interoceptive experiences such as pain and hunger. I completed my PhD in the [Mooney lab](https://www.neuro.duke.edu/research/faculty-labs/mooney-lab) at Duke University, where I used miniature microscopy to show how songbirds finely tune their motor variability depending on social context.
 
 ---
 ## 📄 Previous work
@@ -36,4 +36,3 @@ Risher, W.C., Patel, S., Kim, I.H., Uezu, A., Pilaz, L.J., **Singh Alvarado, J.*
 
 Risher, W.C., Ustunkaya, T., **Singh Alvarado, J.**, Eroglu, C. (2014). "Rapid Golgi Analysis Method for Efficient and Unbiased Classification of Dendritic Spines." ***PLoS ONE***.
 
-</div>

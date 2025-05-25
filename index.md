@@ -7,7 +7,7 @@ title: Jonna Singh Alvarado
 
 # Jonna Singh
 
-📧 jonnathansinghal@gmail.com | 🎓 [Google Scholar](your-scholar-link) | 🦋 [Bluesky](your-bluesky-link) 
+📧 jonnathansinghal@gmail.com | 🎓 [Google Scholar]([your-scholar-link](https://scholar.google.com/citations?user=YXZqjtwAAAAJ&hl=en)) | 🦋 [Bluesky]([your-bluesky-link](https://bsky.app/profile/jonnasingh.bsky.social)) 
 ![Your Photo](IMG_8199.JPG){: .profile-photo}
 
 ---
@@ -18,85 +18,20 @@ I am currently a K99 fellow in the [Andermann Lab](https://www.andermannlab.com/
 
 ## 📄 Publications
 
-### Peer-Reviewed Articles
+Zhou, S., Zhu, Q., Fang, S., Subach, O., Ran, C., **Singh Alvarado, J.**, Sunkavalli, P., Yuanping Dong, Wang, Y., Wang, Z., Sun, X., Fedor V Subach, Kiryl D Piatkevich. (2025). "A sensitive soma-localized red fluorescent calcium indicator for in vivo imaging of neuronal populations at single-cell resolution." ***PLoS Biology***.
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="paper_1.jpg" style="width: 80px; height: 60px; object-fit: cover; margin-right: 15px; border-radius: 4px;">
-  <div>
-    <strong style="color: #3498db;">A sensitive soma-localized red fluorescent calcium indicator for in vivo imaging of neuronal populations at single-cell resolution</strong><br>
-    Zhou, S., Zhu, Q., Fang, S., Subach, O., Ran, C., <strong>Singh Alvarado, J.</strong>, Sunkavalli, P., Yuanping Dong, Wang, Y., Wang, Z., Sun, X., Fedor V Subach, Kiryl D Piatkevich<br>
-    <em>PLoS Biology</em> 2025
-  </div>
-</div>
+**Singh Alvarado, J.***, Lutas, A.*, Madara, J.C., Isaac, J., Lommer, C., Massengill, C., Andermann, M.L. (2024). "Transient cAMP production drives rapid and sustained spiking in brainstem parabrachial neurons to suppress feeding." ***Neuron***.
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="paper_2.jpg" style="width: 80px; height: 60px; object-fit: cover; margin-right: 15px; border-radius: 4px;">
-  <div>
-    <strong style="color: #3498db;">Transient cAMP production drives rapid and sustained spiking in brainstem parabrachial neurons to suppress feeding</strong><br>
-    <strong>Singh Alvarado, J.*</strong>, Lutas, A.*, Madara, J.C., Isaac, J., Lommer, C., Massengill, C., Andermann, M.L.<br>
-    <em>Neuron</em> 2024
-  </div>
-</div>
+**Singh Alvarado, J.***, Hatfield, J.*, Mooney, R. (2022). "Divergent projections from Locus Coeruleus to the cortico-basal ganglia system and ventral tegmental area of the zebra finch." ***Journal of Comparative Neurology***.
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="paper_3.jpg" style="width: 80px; height: 60px; object-fit: cover; margin-right: 15px; border-radius: 4px;">
-  <div>
-    <strong style="color: #3498db;">Divergent projections from Locus Coeruleus to the cortico-basal ganglia system and ventral tegmental area of the zebra finch</strong><br>
-    <strong>Singh Alvarado, J.*</strong>, Hatfield, J.*, Mooney, R.<br>
-    <em>Journal of Comparative Neurology</em> 2022
-  </div>
-</div>
+**Singh Alvarado, J.**, Goffinet, J., Michael, V., Liberti, W., Hatfield, J., Gardner, T., Pearson, J., & Mooney, R. (2021). "Neural dynamics underlying birdsong practice and performance." ***Nature***.
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="paper_4.jpg" style="width: 80px; height: 60px; object-fit: cover; margin-right: 15px; border-radius: 4px;">
-  <div>
-    <strong style="color: #3498db;">Neural dynamics underlying birdsong practice and performance</strong><br>
-    <strong>Singh Alvarado, J.</strong>, Goffinet, J., Michael, V., Liberti, W., Hatfield, J., Gardner, T., Pearson, J., & Mooney, R.<br>
-    <em>Nature</em> 2021 🌟
-  </div>
-</div>
+Garcia, J., Gibson, R., Breslav, A., **Singh Alvarado, J.**, Seas, A., Maduka, A., et al. (2021). "Building Opportunities and Overtures in Science and Technology: Establishing an Early Intervention, Multi-level, Continuous STEM Pathway Program." ***Journal of STEM Outreach***.
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="paper_5.jpg" style="width: 80px; height: 60px; object-fit: cover; margin-right: 15px; border-radius: 4px;">
-  <div>
-    <strong style="color: #3498db;">Building Opportunities and Overtures in Science and Technology: Establishing an Early Intervention, Multi-level, Continuous STEM Pathway Program</strong><br>
-    Garcia, J., Gibson, R., Breslav, A., <strong>Singh Alvarado, J.</strong>, Seas, A., Maduka, A., et al.<br>
-    <em>Journal of STEM Outreach</em> 2021
-  </div>
-</div>
+Lu, J., Li, C., **Singh Alvarado, J.**, Zhe Charles Zhou, Flavio Fröhlich, Mooney, R., Wang, F. (2018). "MIN1PIPE: A Miniscope 1-Photon-Based Calcium Imaging Signal Extraction Pipeline." ***Cell Rep***.
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="paper_6.jpg" style="width: 80px; height: 60px; object-fit: cover; margin-right: 15px; border-radius: 4px;">
-  <div>
-    <strong style="color: #3498db;">MIN1PIPE: A Miniscope 1-Photon-Based Calcium Imaging Signal Extraction Pipeline</strong><br>
-    Lu, J., Li, C., <strong>Singh Alvarado, J.</strong>, Zhe Charles Zhou, Flavio Fröhlich, Mooney, R., Wang, F.<br>
-    <em>Cell Rep</em> 2018
-  </div>
-</div>
+Tanaka, M., **Singh Alvarado, J.**, Murugan, M., and Mooney, R. (2016). "Expressing mutant huntingtin in the songbird basal ganglia disrupts cortico‐basal ganglia networks and vocal sequences." ***Proc. Natl. Acad. Sci. USA***.
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="paper_7.jpg" style="width: 80px; height: 60px; object-fit: cover; margin-right: 15px; border-radius: 4px;">
-  <div>
-    <strong style="color: #3498db;">Expressing mutant huntingtin in the songbird basal ganglia disrupts cortico‐basal ganglia networks and vocal sequences</strong><br>
-    Tanaka, M., <strong>Singh Alvarado, J.</strong>, Murugan, M., and Mooney, R.<br>
-    <em>Proc. Natl. Acad. Sci. USA</em> 2016
-  </div>
-</div>
+Risher, W.C., Patel, S., Kim, I.H., Uezu, A., Pilaz, L.J., **Singh Alvarado, J.**, Calhan, O.Y., Silver, D.L., Stevens, B., Soderling, S.H., and Eroglu, C. (2014). "Astrocytes refine cortical connectivity at dendritic spines." ***eLife***.
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="paper_8.jpg" style="width: 80px; height: 60px; object-fit: cover; margin-right: 15px; border-radius: 4px;">
-  <div>
-    <strong style="color: #3498db;">Astrocytes refine cortical connectivity at dendritic spines</strong><br>
-    Risher, W.C., Patel, S., Kim, I.H., Uezu, A., Pilaz, L.J., <strong>Singh Alvarado, J.</strong>, Calhan, O.Y., Silver, D.L., Stevens, B., Soderling, S.H., and Eroglu, C.<br>
-    <em>eLife</em> 2014
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="paper_9.jpg" style="width: 80px; height: 60px; object-fit: cover; margin-right: 15px; border-radius: 4px;">
-  <div>
-    <strong style="color: #3498db;">Rapid Golgi Analysis Method for Efficient and Unbiased Classification of Dendritic Spines</strong><br>
-    Risher, W.C., Ustunkaya, T., <strong>Singh Alvarado, J.</strong>, Eroglu, C.<br>
-    <em>PLoS ONE</em> 2014
-  </div>
-</div>
+Risher, W.C., Ustunkaya, T., **Singh Alvarado, J.**, Eroglu, C. (2014). "Rapid Golgi Analysis Method for Efficient and Unbiased Classification of Dendritic Spines." ***PLoS ONE***.

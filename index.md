@@ -5,18 +5,21 @@ title: Jonna Singh Alvarado
 
 <div class="cv-container">
 
-# Jonna Singh
+# Jonna Singh Alvarado
 
-📧 jonnathansinghal@gmail.com | 🎓 [Google Scholar]([your-scholar-link](https://scholar.google.com/citations?user=YXZqjtwAAAAJ&hl=en)) | 🦋 [Bluesky]([your-bluesky-link](https://bsky.app/profile/jonnasingh.bsky.social)) 
+📧 jonnathansinghal@gmail.com | 🎓 [Google Scholar](https://scholar.google.com/citations?user=YXZqjtwAAAAJ&hl=en) | 🦋 [Bluesky](https://bsky.app/profile/jonnasingh.bsky.social)
+
 ![Your Photo](IMG_8199.JPG){: .profile-photo}
 
 ---
 
 ## About Me
 
-I am currently a K99 fellow in the [Andermann Lab](https://www.andermannlab.com/), where I have been working on approaches to link functional and transcriptomic measurements in neurons. My goal is to use these approaches to understand how brainstem regions begin to transform bodily signals into interoceptive experiences such as pain and hunger. I completed my PhD in the [Mooney lab](https://www.neuro.duke.edu/research/faculty-labs/mooney-lab) at Duke University, where I used miniature microscopy to how songbirds finely tune their motor variability depending on social context.
+I am currently a K99 fellow in the [Andermann Lab](https://www.andermannlab.com/), where I have been working on approaches to link functional and transcriptomic measurements in neurons. My goal is to use these approaches to understand how brainstem regions begin to transform bodily signals into interoceptive experiences such as pain and hunger. I completed my PhD in the [Mooney lab](https://www.neuro.duke.edu/research/faculty-labs/mooney-lab) at Duke University, where I used miniature microscopy to show how songbirds finely tune their motor variability depending on social context.
 
-## 📄 Publications
+---
+
+## 📄 Previous work
 
 Zhou, S., Zhu, Q., Fang, S., Subach, O., Ran, C., **Singh Alvarado, J.**, Sunkavalli, P., Yuanping Dong, Wang, Y., Wang, Z., Sun, X., Fedor V Subach, Kiryl D Piatkevich. (2025). "A sensitive soma-localized red fluorescent calcium indicator for in vivo imaging of neuronal populations at single-cell resolution." ***PLoS Biology***.
 
@@ -35,3 +38,5 @@ Tanaka, M., **Singh Alvarado, J.**, Murugan, M., and Mooney, R. (2016). "Express
 Risher, W.C., Patel, S., Kim, I.H., Uezu, A., Pilaz, L.J., **Singh Alvarado, J.**, Calhan, O.Y., Silver, D.L., Stevens, B., Soderling, S.H., and Eroglu, C. (2014). "Astrocytes refine cortical connectivity at dendritic spines." ***eLife***.
 
 Risher, W.C., Ustunkaya, T., **Singh Alvarado, J.**, Eroglu, C. (2014). "Rapid Golgi Analysis Method for Efficient and Unbiased Classification of Dendritic Spines." ***PLoS ONE***.
+
+</div>

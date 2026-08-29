@@ -26,7 +26,9 @@ a:hover { color:var(--accent); border-bottom-color:var(--accent); }
 .masthead { max-width:var(--maxw); margin:0 auto; padding:4.25rem 0 1.1rem; }
 .masthead h1 { margin:0 0 .7rem; font-size:1.72rem; font-weight:700; letter-spacing:-0.022em; line-height:1.1; }
 .links { display:flex; flex-wrap:wrap; align-items:center; gap:.3rem 1.15rem;
-  font-family:var(--mono); font-size:.78rem; text-transform:uppercase; letter-spacing:.05em; }
+  font-family:var(--mono); font-size:.78rem; letter-spacing:.02em; }
+.links > a:not(.up) { text-transform:none; }
+.links .up { text-transform:uppercase; letter-spacing:.05em; }
 .links > a { color:var(--muted); border-bottom:none; }
 .links > a:hover { color:var(--accent); }
 .icons { display:inline-flex; align-items:center; gap:.8rem; }

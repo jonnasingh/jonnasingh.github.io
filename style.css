@@ -41,12 +41,12 @@ main { max-width:var(--maxw); margin:0 auto; }
 #news h2 { border-bottom-color:var(--accent); color:var(--accent); }
 section { padding:2.4rem 0 2rem; position:relative; }
 #about { border-top:3px solid var(--fg); padding:1.6rem 0 1.4rem; overflow:hidden; }
-h2 { font-family:var(--mono); font-size:.95rem; font-weight:500; text-transform:uppercase;
-  letter-spacing:.09em; color:var(--fg); margin:0 0 1.35rem;
-  padding-bottom:.5rem; border-bottom:2px solid var(--fg); }
-h3 { font-family:var(--mono); font-size:.8rem; font-weight:500; text-transform:uppercase;
-  letter-spacing:.09em; color:var(--accent); margin:2.5rem 0 .9rem;
-  padding-bottom:.35rem; border-bottom:1px solid var(--rule); }
+h2 { font-family:var(--mono); font-size:1.12rem; font-weight:600; text-transform:uppercase;
+  letter-spacing:.06em; color:var(--fg); margin:0 0 1.4rem;
+  padding-bottom:.55rem; border-bottom:2px solid var(--fg); }
+h3 { font-family:var(--mono); font-size:.92rem; font-weight:600; text-transform:uppercase;
+  letter-spacing:.06em; color:var(--accent); margin:2.6rem 0 1rem;
+  padding-bottom:.4rem; border-bottom:1px solid var(--accent); }
 h3.first { margin-top:.2rem; }
 p { margin:0 0 1rem; }
 .lede { margin-bottom:1rem; }

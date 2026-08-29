@@ -1,0 +1,10 @@
+# style explorations — not part of the published site
+variants/
+specimens.html
+
+# OS / editor junk
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
+~$*
